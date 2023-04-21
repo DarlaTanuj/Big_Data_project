@@ -8,9 +8,9 @@ This domain focuses on analyzing and building predictive models using a gun viol
 
 ## Gun Violence Data
 
-Data :  https://www.kaggle.com/datasets/jameslko/gun-violence-data <\n>
-        https://www.kaggle.com/datasets/konivat/us-gun-violence-archive-2014 <\n>
-        https://www.gunviolencearchive.org <\n>
+Data :  https://www.kaggle.com/datasets/jameslko/gun-violence-data 
+        https://www.kaggle.com/datasets/konivat/us-gun-violence-archive-2014 
+        https://www.gunviolencearchive.org
 	
 
 
