@@ -3,27 +3,22 @@ The course project is an opportunity for student groups to investigate a current
 
 ## Domain
 
-Financial fraud and bankruptcy are inextricably linked, as fraudulent acts frequently result in bankruptcy for the persons or businesses involved. Individuals or businesses may petition for bankruptcy protection in order to reorganize their obligations and achieve financial stability in the event of bankruptcy. Bankruptcy filings, on the other hand, can be used to conceal fraudulent acts or to avoid the repercussions of financial misconduct. Individuals who have committed fraud, for example, may seek to transfer assets to a third party or file for bankruptcy in order to avoid paying restitution to their victims. As a result, bankruptcy courts and trustees play an important role in identifying and combating financial fraud, and may launch investigations into debtors' actions to find fraudulent activity. Furthermore, bankruptcy rules and regulations are continually developing in reaction to emerging kinds of financial fraud, in order to better safeguard creditors' interests and prevent the bankruptcy system from being abused.
+This domain focuses on analyzing and building predictive models using a gun violence dataset containing information on incidents in the United States from January 2013 to March 2020. Preprocessing steps include data cleaning, feature engineering, data transformation, and feature selection. Various machine learning models can be applied, such as decision trees and random forests, gradient boosting machines, and neural networks, classification methods to achieve good performance metrics. Metrics such as precision, recall, F1-score, and the Area Under the Receiver Operating Characteristic (ROC) curve should be used to measure model performance as they provide more informative results than accuracy alone for imbalanced datasets. By using Python 3.x and necessary libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn, analysts can gain insights into the patterns and factors contributing to gun violence incidents and build models to predict future incidents.
 
 
-## Preference 1
+## Gun Violence Data
 
-## Credit Card Fraud Detection
-
-Data : https://www.kaggle.com/datasets/mishra5001/credit-card
+Data :  https://www.kaggle.com/datasets/jameslko/gun-violence-data
 
 
 ## Business Problem or Opportunity
 
-The detection of credit card fraud is a big business potential, since the advent of e-commerce and online payments has resulted in a surge in fraudulent credit and debit card activity. As a result, there is an increasing need for technology and services that may assist businesses in detecting and preventing credit card fraud in order to safeguard their consumers and their own financial interests. Credit card fraud detection firms can provide a variety of services, such as fraud monitoring, transaction analysis, and predictive analytics. Furthermore, these firms may provide bespoke fraud detection technologies for certain industries or business sectors, such as e-commerce or financial services. The credit card fraud detection market is poised for tremendous development in the next years, giving a great business opportunity for entrepreneurs and investors alike.
+One of the primary business problems that can be addressed with this dataset is to identify the factors associated with gun violence incidents. This includes understanding the demographics of the victims and perpetrators, the types of weapons used, the location and timing of incidents, and other key variables that may be relevant. By analyzing these factors, law enforcement agencies, policymakers, and community organizations can develop targeted interventions to prevent gun violence and improve public safety.
 
-## Preference 2
+Another business opportunity that can be identified with this dataset is to explore the impact of gun control policies on gun violence. This includes analyzing the effectiveness of existing policies, identifying gaps in policy implementation, and exploring potential policy solutions to reduce gun violence. This information can inform policy development and implementation at the local, state, and national levels.
 
-## Company Bankruptcy Prediction
+Moreover, the dataset can be used to identify high-risk areas and populations for gun violence and develop interventions that address the root causes of gun violence, such as poverty, unemployment, and mental health issues. By targeting these factors, stakeholders can reduce the incidence of gun violence and improve the health and safety of communities.
 
-Data : https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
+In summary, the gun violence dataset presents a significant business opportunity to better understand the complex issue of gun violence, develop evidence-based interventions, and inform policy decisions. By analyzing this data, stakeholders can work together to reduce the harm caused by gun violence and promote public safety.
 
-## Business Problem or Opportunity
 
-Predicting corporate bankruptcy is a substantial commercial potential since it may assist investors and businesses in making educated decisions regarding financial investments and lowering their risk exposure. Financial analysis, predictive modeling, and risk assessment are just a few of the services that companies that specialize in predicting bankruptcy may provide. These businesses can identify businesses that are at danger of going bankrupt by examining financial data and market trends, and they can then offer practical advice on how to reduce these risks.
-Numerous business issues and possibilities may be resolved using the domain expertise of firm bankruptcy prediction. Cross-selling is one such chance, as bankruptcies may have a negative impact on a company's partners and suppliers and result in the loss of commercial possibilities. Businesses may identify at-risk enterprises and take early actions to limit the effects of prospective bankruptcies by employing effective bankruptcy prediction tools. This lowers the risk of lost revenue and enhances cross-selling initiatives.Another opportunity lies in optimizing store locations, as bankruptcies can impact a business's ability to operate in certain geographic areas. By analyzing industry trends and financial data to identify areas that are at high risk of bankruptcies, businesses can make informed decisions about where to open new stores, and where to allocate resources for risk mitigation.
